@@ -1,9 +1,12 @@
-# README FILE FOR ADMINISTRATIVE CMS
-NAME: ADMINISTRATIVE CONTENT MANAGEMENT SYSTEM
+# ADMINISTRATIVE CMS
+
+**NAME**: ADMINISTRATIVE CONTENT MANAGEMENT SYSTEM
 
 VERSION 1.0.1
 
-DESCRIPTION: Content Based management system is primarly a dynamic blogging site where users can post their feed and give comments on those. There are many categories un which the users can posts which in our project includes Bootstrap, Javascript, PHP, etc. The admin can register for the users who are willing to post on the system, monitor the posts and the commments which the users give. 
+### DESCRIPTION: 
+
+Content Based management system is primarly a dynamic blogging site where users can post their feed and give comments on those. There are many categories un which the users can posts which in our project includes Bootstrap, Javascript, PHP, etc. The admin can register for the users who are willing to post on the system, monitor the posts and the commments which the users give. 
 
 ## BASIC OPERATIONS IN SETTING UP THE WEBSITE: 
 
@@ -20,5 +23,9 @@ The admin has the access to register a user and perform the add, edit and delete
 The user once granted the access to the website can view other users's posts and comments and can post his own stuff into it.
 The admin if not satsified with the users's comments which could be due to the language used, can disapprove the same which results in disappearence from the comments section. 
 The admin also has a graph displaying the total no of users, posts posted by those users.
+
+## SCREENSHOTS OF THE PROJECT
+
+
 
  
