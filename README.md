@@ -1,4 +1,4 @@
-# README FILE FOR ADMINISTRATIVE CMS-
+# # README FILE FOR ADMINISTRATIVE CMS-
 NAME: ADMINISTRATIVE CONTENT MANAGEMENT SYSTEM
 
 VERSION 1.0.1
@@ -13,7 +13,7 @@ To test the applcication we seeded some raw data in.
 PHP Files were created to access and modify the contents in the database synchronous with the respective front end operations. Crude operations were performed on the data for the complete implemetation of the testing phase which comprises of every functionality in the system. 
 
 
-PROCEDURE FOR ACCESSING THE CONTENTS: 
+# PROCEDURE FOR ACCESSING THE CONTENTS: 
 
 The access for a user to post, comment in the blog can only be given by the admin. The admin first logs on into the site where the admin panel getss displayed. 
 The admin has the access to register a user and perform the add, edit and delete comments of the fellow users along with monitoring the user activity.
