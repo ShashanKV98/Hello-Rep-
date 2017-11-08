@@ -26,6 +26,6 @@ The admin also has a graph displaying the total no of users, posts posted by tho
 
 ### SCREENSHOTS OF THE PROJECT
 
-![alt text](https://github.com/ShashanKV98/Hello-Rep-/edit/master/RM1.png)
+![alt text](Hello-Rep-/RM1.png)
 
  
